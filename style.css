@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/24/03/53/plant-2004483_1280.jpg);
+}
+h1{
+    margin-top: -5px;
+    text-align: center;
+    color: #07ae66;
+}
+form{
+    width: 70%;
+    margin-top: -10px;
+    padding-left: 25%;
+}
+input[type="text"],input[type="number"],input[type="email"] {
+    width: 70%;
+    padding :10px 20px;
+    margin:8px 0px;
+    display: inline-block;
+}
+.button{
+    background-color: #07ae66;
+    padding: 10px 10px 10px 10px;
+    border-style: none;
+}
+
+table{
+    padding-left: 25%;
+    margin-top: 20px;
+    width: 78%;
+    border-spacing: 0px;
+}
+td{
+    border: 1px solid black;
+    padding: 10px 15px;
+   
+} 
+thead{
+    background-color: rgb(224, 220, 220);
+}
+thead tr th{
+    font-size: 20px;
+}
+.edit-btn{
+    background-color: rgb(183, 183, 157);
+    border: 1px solid;
+}
